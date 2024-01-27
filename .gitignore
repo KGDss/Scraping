@@ -1,0 +1,11 @@
+tmp/
+
+Puppeteer/node_modules
+Puppeteer/tmp
+Puppeteer/klook.js
+
+Scrapy/part2
+Scrapy/part3
+Scrapy/Part7
+
+.DS_Store

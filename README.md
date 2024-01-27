@@ -1,1 +1,0 @@
-# Some scraping projects with Puppeteer and Scrapy
